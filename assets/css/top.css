@@ -175,7 +175,7 @@
 }
 @media(min-width: 480px) {
   .section-top__image {
-    height: 1400px;
+    height: auto 100%;
   }
   .section-top__image h2 {
     font-size: 3.0rem;
