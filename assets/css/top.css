@@ -173,7 +173,7 @@
   height: 200px;
   bottom: 100px;
 }
-@media(min-width: 480px) {
+@media(min-width: 350px) {
   .section-top__image {
     height: 350px;
   }
