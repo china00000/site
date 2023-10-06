@@ -134,9 +134,9 @@
   bottom: 100px;
 }
 .section-top__image {
+  height: 388px;
   background-image: url("../images/top/top_image.jpg");
   background-color:#EFF2FF;
-  background-position: center;
   background-size:auto 100%;
   background-repeat: no-repeat;
   color: #FFF;
