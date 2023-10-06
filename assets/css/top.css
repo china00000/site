@@ -134,7 +134,7 @@
   bottom: 100px;
 }
 .section-top__image {
-  height: 388px;
+  height: 658px;
   background-image: url("../images/top/top_image.jpg");
   background-color:#EFF2FF;
   background-position: center;
@@ -175,7 +175,7 @@
 }
 @media(min-width: 480px) {
   .section-top__image {
-    height: 600px;
+    height: 658px;
   }
   .section-top__image h2 {
     font-size: 3.0rem;
